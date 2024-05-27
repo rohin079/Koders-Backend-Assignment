@@ -61,7 +61,7 @@ Expense Tracker is a Node.js application built with Express.js to manage persona
 
 ## Credits
 
-This project was completed by Rohin Mehrotra as an assignment for Backend Developer Intern Assignment by Koders.
+This project was completed by Rohin Mehrotra as an assignment for Backend Developer Intern by Koders.
 
 
 ## Licence
